@@ -1,0 +1,17 @@
+ecole
+panda
+loup
+barbare
+sauvage
+poulet
+maximum
+minimum
+labyrinthe
+wakanda
+ecouteur
+oreille
+riviere
+montre
+gourde
+test
+vide
